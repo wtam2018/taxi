@@ -1,8 +1,8 @@
 # The Taxi App
 
-# About
+## About
 
-This repository contains the source code, deployment manifests and CI/CD pipelines for the taxi app.
+This Github repository contains the source code, deployment manifests and CI/CD pipelines for the taxi app.
 
 ## Application Source code
 
