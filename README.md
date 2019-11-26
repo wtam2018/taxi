@@ -6,7 +6,7 @@ This repository contains the source code, deployment manifests and CI/CD pipelin
 
 ## Application Source code
 
-The application source code resides in the `src` directory.
+fdhsjfjksfhdsjk
 
 ## Pipelines
 
