@@ -75,6 +75,8 @@ this as appropriate.
 
 This should complete successfully.
 
+Wait for the `demo-interceptor` and `el-cicd-event-listener` pods to be up and running.
+
 ## Setup the Webooks
 
   For your GitHub repositories, go to the settings page, and add the route paths
