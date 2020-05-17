@@ -21,5 +21,5 @@ The CI pipeline does the following:
 ### CD
 
 The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `dev` environment.
-
+ 
 ### This is a demo application  
